@@ -5,7 +5,7 @@ This is a collection of my solutions to the Computer Olympiad I have participate
 
 ## Olympiad Questions
 
-I will the questions later when they release it
+I will add the questions later when they release it
 * Feel free to add it yourself into the `main` branch
 
 ## Contributing
