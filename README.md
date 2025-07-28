@@ -4,7 +4,8 @@
 This is a collection of my solutions to the Computer Olympiad I have participated in. This is to help others aswell as myself in this world of programming.
 
 ## Olympiad Questions
-  <I will the questions later when they release it>
+
+I will the questions later when they release it
 * Feel free to add it yourself into the `main` branch
 
 ## Contributing
